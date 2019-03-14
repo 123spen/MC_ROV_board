@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-13T21:15:40Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "MC_ROV1"
+        },
+        "Owner": "Spencer Mcdermott <spencer1.mcdermott@gmail.com>",
+        "Size": {
+            "X": 76.2,
+            "Y": 50.8
+        }
+    }
+}
